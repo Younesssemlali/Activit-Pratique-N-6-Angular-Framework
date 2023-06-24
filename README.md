@@ -17,18 +17,6 @@ https://github.com/Younesssemlali/Activit-Pratique-N-6/assets/101253650/6d411007
 
 
 
-II- Les Différents Parties D'exécution
-
-A) LES deux ARCHITECTURES DU PROJET:
-
-
-Backend:
-
-![ACHRITECTURE](https://github.com/Younesssemlali/Activit-Pratique-N_6-Angular-Framework/assets/101253650/9987a3c7-3aaf-40dc-bcea-8ad2eeb1cb30)
-
-Frontend:
-
-![ARCH2](https://github.com/Younesssemlali/Activit-Pratique-N_6-Angular-Framework/assets/101253650/92855539-6097-46c5-bb89-4a2d662c92c5)
 
 
 
