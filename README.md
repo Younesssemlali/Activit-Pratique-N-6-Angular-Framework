@@ -6,7 +6,10 @@ I- Une Vidéo démonstratif :
 
 
 
-https://github.com/Younesssemlali/Activit-Pratique-N_6-Angular-Framework/assets/101253650/377b0606-4370-4509-b0a3-2086b52f93fe
+
+https://github.com/Younesssemlali/Activit-Pratique-N-6/assets/101253650/6d411007-61f3-4a86-aaee-f01e7507c6a1
+
+
 
 
 
